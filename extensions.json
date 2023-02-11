@@ -1,0 +1,33 @@
+{
+  "recommendations": [
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "formulahendry.auto-rename-tag",
+    "VisualStudioExptTeam.vscodeintellicode",
+    "VisualStudioExptTeam.intellicode-api-usage-examples"
+    "shd101wyy.markdown-preview-enhanced",
+    "SonarSource.sonarlint-vscode",
+    "pomdtr.excalidraw-editor",
+    "naumovs.color-highlight",
+    "anseki.vscode-color",
+    "paulmolluzzo.convert-css-in-js",
+    "jonkwheeler.styled-components-snippets",
+    "mf.vscode-styled-components"
+    "redhat.fabric8-analytics",
+    "Perkovec.emoji",
+    "dsznajder.es7-react-js-snippets",
+    "GitHub.vscode-pull-request-github",
+    "eamodio.gitlens",
+    "ecmel.vscode-html-css",
+    "wix.vscode-import-cost",
+    "ritwickdey.LiveServer",
+    "bierner.markdown-emoji",
+    "shd101wyy.markdown-preview-enhanced",
+    "HookyQR.minify",
+    "sdras.night-owl",
+    "johnpapa.vscode-peacock",
+    "syler.sass-indented",
+    "jasonnutter.search-node-modules",
+    "rangav.vscode-thunder-client"
+  ]
+}
