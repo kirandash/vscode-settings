@@ -28,6 +28,9 @@
     "johnpapa.vscode-peacock",
     "syler.sass-indented",
     "jasonnutter.search-node-modules",
-    "rangav.vscode-thunder-client"
+    "rangav.vscode-thunder-client",
+    "streetsidesoftware.code-spell-checker",
+    "GitHub.copilot",
+    "GitHub.copilot-labs"
   ]
 }
