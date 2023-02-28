@@ -31,6 +31,7 @@
     "rangav.vscode-thunder-client",
     "streetsidesoftware.code-spell-checker",
     "GitHub.copilot",
-    "GitHub.copilot-labs"
+    "GitHub.copilot-labs",
+    "bradlc.vscode-tailwindcss"
   ]
 }
