@@ -32,6 +32,8 @@
     "streetsidesoftware.code-spell-checker",
     "GitHub.copilot",
     "GitHub.copilot-labs",
-    "bradlc.vscode-tailwindcss"
+    "bradlc.vscode-tailwindcss",
+    "mikestead.dotenv",
+    "pranaygp.vscode-css-peek"
   ]
 }
